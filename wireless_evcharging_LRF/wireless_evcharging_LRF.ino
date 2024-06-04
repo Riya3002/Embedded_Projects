@@ -1,3 +1,6 @@
+// the robot works as both remote controlled device and Line follower 
+// It uses ESP32 for working with web server to provide controls 
+// can be controlled to reach charging stations automatically
 // Infrared Ray sensor
 int ir1 = 5;
 int ir2 = 26;
