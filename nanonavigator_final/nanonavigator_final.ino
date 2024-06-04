@@ -1,3 +1,6 @@
+// Code for nanonavigator which is a maze solving robot which works on STM32 and uses floodfill algorithm.
+//It collects the data about presence of walls and distance travelled an move accordingly.
+//It uses IR sensors,Ultasonic sesnors,buck boost converters and motors
 #include<c++/4.8.3//vector>
 #include<c++/4.8.3//queue>
 #include<c++/4.8.3//string>
