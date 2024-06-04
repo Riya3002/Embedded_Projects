@@ -1,3 +1,6 @@
+//Industrial implementation for automatic counting of products and data tracking by the manager
+// using ESP32, NEMA motors and IR sensors
+// An appplication integration through bluetooth was done
 #include <Wire.h>
 #include <time.h> 
 #include <LCD_I2C.h>
