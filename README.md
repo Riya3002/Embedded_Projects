@@ -1,4 +1,4 @@
-** Embedded Systems Projects **
+**** Embedded Systems Projects ****
 
 Welcome to my repository of Embedded Systems Projects. This repository contains a collection of my projects, showcasing various applications and technologies in the field of embedded systems and robotics.
 
@@ -12,8 +12,9 @@ Welcome to my repository of Embedded Systems Projects. This repository contains 
 
 **Projects**
 1) NanoNavigator
-Description: A maze solving robot which is controlled by STM32F1xxx and collects data from sensors uses floodfill algorithm and for finding the shortest path .
-Technologies: STM32, DC motors, GP2Y0A sharp IR sensors, Ultrasonic sensors, buck converter
+
+Description: A maze solving robot which is controlled by STM32F1xxx and collects data from sensors and uses floodfill algorithm and for finding the shortest path.  
+Technologies: STM32, DC motors, GP2Y0A sharp IR sensors, ultrasonic sensors, buck converter
 
 3) E-conveyer Belt
   
@@ -35,6 +36,10 @@ Technologies: Esp32, DC motors, IR sensors
 Microcontrollers: STM32, Raspberry Pi Pico, ESP32, Arduino  
 Sensors: IR, Ultrasonic, Myoware, sharp IR(GP2Y0 series), EEG cap  
 Software: Arduino IDE, Eclipse IDE, STM32CubeIDE, VS Code, Thonny  
+
+Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
 
 **Contact**
 
