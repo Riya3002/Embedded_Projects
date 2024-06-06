@@ -11,11 +11,13 @@ Welcome to my repository of Embedded Systems Projects. This repository contains 
 - Contact
 
 **Projects**
-1) NanoNavigator  Description: A maze solving robot which is controlled by STM32F1xxx and uses floodfill algorithm for data acquisition for shortest path.  Technologies: STM32, DC motors, GP2Y0A sharp IR sensors, Ultrasonic sensors, buck converter
+1) NanoNavigator
+Description: A maze solving robot which is controlled by STM32F1xxx and collects data from sensors uses floodfill algorithm and for finding the shortest path .
+Technologies: STM32, DC motors, GP2Y0A sharp IR sensors, Ultrasonic sensors, buck converter
 
 3) E-conveyer Belt
   
-Description: An industrial solution for automatic counting of products on conveyer belt along with application integrated for real time analysis.  
+Description: An industrial solution for automatic counting of products on conveyer belt along with application integrated for real time analysis by the manager.  
 Technologies: Esp32, IR Sensors, NEMA17 stepper motors, SMPS, conveyer belt
 
 4) Bionic Prosthetic Arm
